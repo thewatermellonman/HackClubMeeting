@@ -1,0 +1,23 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	color: #ce4141;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+	margin-top: 0;
+}
+
+h2 {
+	color: #ce4141;
+}
+
+.header {
+	background-color: rgb(241, 230, 214);
+	margin-top: 0;
+	padding: 10px;
+}
